@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: timeline
-    - title: "Team"
+    - title: "Info"
       section: team
     - title: "Resume"
       section: resume
