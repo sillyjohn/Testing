@@ -34,10 +34,6 @@ en: &DEFAULT_EN
       - title: "Level Designer"
         desc: ""
         icon: fas fa-layer-group
-    
-      - title: "[Magic Mouster](https://magicmousters.itch.io/magic-mouster)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
