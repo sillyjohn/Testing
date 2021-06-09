@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "I am a"
-    text: "a Graduate Student from University of California - Santa Cruz who Major in Art & Design: Playable Media"
+    text: ""
     section: services
     list:
       - title: "Grad From University of California - Santa Cruz"
@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Game Designer"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-gamepad
-      - title: "3D Modeler"
+      - title: "3D Modeler & Animator"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-cubes #find more at https://fontawesome.com/icons
       - title: "Level Designer"
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here are some of my work"
     section: portfolio
     closebutton: "Close Project"
 
