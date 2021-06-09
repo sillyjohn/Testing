@@ -11,7 +11,7 @@ caption:
   subtitle: Animation
   thumbnail: assets\p4_thumbnail.png
 ---
-A short one minute animation. For this project, I put in the a toon-shaded post-processing effect to give this animation more cartoony feel. The close up shot and match cut created an interesting tension between both chibis. 
+A short one minute animation. For this project, I put in the a toon-shaded post-processing effect to give this animation more cartoony feel. The close up shot and match cut created an interesting tension between both chibis. [Link to google drive to watch the animation](https://drive.google.com/drive/folders/1VlYu0leoVx5v3QtotBA-5UMSfUW0a5b2?usp=sharing)
 
 {:.list-inline}
 - Date: March 2021

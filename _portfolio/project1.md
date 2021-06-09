@@ -6,7 +6,7 @@ image_2: assets\img\level_3_InDev.PNG
 caption:
   title: Magic Mouster
   subtitle:  Game Project 
-  thumbnail: assets\img\MagicMouster.png
+  thumbnail: assets\img\MagicMouster_thumbnail.png
 ---
 This is a year long capstone project created by Team Magic Mousters. In this project, my primary role is 3D artist and level designer, who dedicated toward creating levels that are aesthetically and mechanically cohesive. [Link to Magic Mouster's itch page](https://magicmousters.itch.io/magic-mouster)
 
