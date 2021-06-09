@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Grad From University of California - Santa Cruz"
-        desc: "Major In Art & Design: Playable Media"
+        desc: "Major In Art & Design: Playable Media Graduate in Fall 2021"
         icon: fas fa-graduation-cap
       - title: "Game Designer"
         desc: "Experience with Unity."
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Experience with Blender & Substance Painter"
         icon: fas fa-cubes #find more at https://fontawesome.com/icons
       - title: "Level Designer"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: ""
         icon: fas fa-layer-group
     
       - title: "[Magic Mouster](https://magicmousters.itch.io/magic-mouster)"
