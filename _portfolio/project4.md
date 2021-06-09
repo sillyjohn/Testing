@@ -1,7 +1,9 @@
 ---
 title: "(O.o)(o.O)"
 subtitle: Chibi playing football! Nothing could go wrong, right?
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+image: assets\p4_3.png
+image_2: assets\p4_2.png
+image_3: assets\p4_1.png
 alt: 
 
 caption:
@@ -9,10 +11,10 @@ caption:
   subtitle: Animation
   thumbnail: assets\p4_thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A short one minute animation. For this project, I put in the a toon-shaded post-processing effect to give this animation more cartoony feel. The close up shot and match cut created an interesting tension between both chibis. 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: March 2021
+- Category: Animation
+- Software: Blender 2.9
 
