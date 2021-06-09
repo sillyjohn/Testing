@@ -21,15 +21,19 @@ en: &DEFAULT_EN
     text: "a Graduate Student from University of California - Santa Cruz who Major in Art & Design: Playable Media"
     section: services
     list:
+      - title: "Grad From University of California - Santa Cruz"
+        desc: "Major In Art & Design: Playable Media"
+        icon: fa-solid fa-graduation-cap
+      - title: "Game Designer"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
       - title: "3D Modeler"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Game Designer"
+      - title: "Level Designer"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "Game Designer"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+    
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
