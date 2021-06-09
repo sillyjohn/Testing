@@ -22,7 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Grad From University of California - Santa Cruz"
-        desc: "Major In Art & Design: Playable Media Graduate in Fall 2021"
+        desc: "Major In Art & Design: Playable Media 
+        Graduate in Fall 2021"
         icon: fas fa-graduation-cap
       - title: "Game Designer"
         desc: "Experience with Unity."
