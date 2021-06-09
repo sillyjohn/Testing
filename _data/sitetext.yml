@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "My Name is Tsoi Chun Yin and I am a"
-    text: "Born in 1999/08/16"
+    text: 
     section: services
     list:
       - title: "Grad From University of California - Santa Cruz"
@@ -43,7 +43,9 @@ en: &DEFAULT_EN
     text: "Here are some of my work"
     section: portfolio
     closebutton: "Close Project"
-
+  resume:
+    title: "Resume"
+    text: "A copy of my resume"
   timeline:
     title: "About"
     text: "Lorem ipsum timeline"
