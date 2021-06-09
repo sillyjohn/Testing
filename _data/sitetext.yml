@@ -45,9 +45,9 @@ en: &DEFAULT_EN
     text: "A copy of my resume"
     section: resume
     list:
-      - title: "Grad From University of California - Santa Cruz"
-        desc: "Major In Art & Design: Playable Media"
-        icon: fas fa-graduation-cap
+      - title: "Resume"
+        desc: "[Link](https://drive.google.com/drive/folders/171CvZbv-wGSfDzC0YlGr4OtX0JYggwhN?usp=sharing)"
+        icon: fas fa-file
   timeline:
     title: "About"
     text: "My Skill"
