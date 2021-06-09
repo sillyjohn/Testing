@@ -46,6 +46,7 @@ en: &DEFAULT_EN
   resume:
     title: "Resume"
     text: "A copy of my resume"
+    section: resume
   timeline:
     title: "About"
     text: "Lorem ipsum timeline"
