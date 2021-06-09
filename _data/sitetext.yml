@@ -34,9 +34,9 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-layer-group
     
-      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      #  desc: "Your description here, full **Markdown** support"
-      # icon: fab fa-markdown
+      - title: "[Magic Mouster](https://magicmousters.itch.io/magic-mouster)"
+       desc: "Your description here, full **Markdown** support"
+      icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
