@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+title: Katana
+subtitle: 3D Model
+image: assets\Katana.png
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: Katana
+  subtitle: 3D Model
+  thumbnail: assets\Katana_thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A mid poly count model, I created this katana for my anmiation project and rendered it with Cycle.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: Feburary 2021
+- Category: 3D model
+- Software: Blender 2.9
 
