@@ -2,8 +2,7 @@
 title: Katana
 subtitle: 3D Model
 image: assets\Katana.png
-alt: 
-
+image_2: assets\Katana1.png
 caption:
   title: Katana
   subtitle: 3D Model
