@@ -2,7 +2,8 @@
 title: Ketto
 subtitle: In the night of full moon, two samurai decide to put an end to their grundge and challenge each other with all they've got. There can only be one left standing.
 image: assets\keto.png
-alt: a Screemshot from the animation
+image_2: assets\keto_1.png
+image_3: assets\keto_2.png
 
 caption:
   title: Ketto
