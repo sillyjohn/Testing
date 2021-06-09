@@ -12,7 +12,7 @@ caption:
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. [Magic Mouster](https://magicmousters.itch.io/magic-mouster)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: June 2021
+- Category: 3D Mini-Golf
+- Platform: Window & Mac OS
 
