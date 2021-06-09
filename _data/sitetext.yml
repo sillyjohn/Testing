@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "I am a"
+    text: "a Graduate Student from University of California - Santa Cruz who Major in Art & Design: Playable Media"
     section: services
     list:
       - title: "E-Commerce"
