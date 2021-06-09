@@ -16,5 +16,5 @@ This is a year long capstone project created by Team Magic Mousters. In this pro
 - Category: 3D Mini-Golf
 - Role: 3D Artist and Level Designer
 - Supported Platform: Window & Mac OS
-- version: 1
+- version: 1.1
 
