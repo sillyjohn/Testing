@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     section: resume
     list:
       - title: "Resume"
-        desc: "[Link](https://drive.google.com/drive/folders/171CvZbv-wGSfDzC0YlGr4OtX0JYggwhN?usp=sharing)"
+        desc: "[Link](https://docs.google.com/document/d/1C-GzFo70LzcsniCwwAVwxdIZpTxcqKe3igVLwIYJPGc/edit?usp=sharing)"
         icon: fas fa-file
   timeline:
     title: "About"
