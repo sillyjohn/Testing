@@ -32,7 +32,7 @@ analytics:
 
 collections:
   portfolio:
-  resume:
+resume:
 
 markdown: kramdown
 
