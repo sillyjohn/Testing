@@ -65,9 +65,9 @@ en: &DEFAULT_EN
         desc: "Proficient In Blender & Substance Painter "
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Communication"
-        year: "2019"
-        desc: "Fluent communication with English & Chinese. Open to all ideas and "
+      - title: "Soft Skills"
+        year: ""
+        desc: "Fluent communication with English & Chinese. Open to all ideas and actively seeks improvements. Completeting task on time "
         image: assets/img/timeline/3.jpg
         alt: image alt text
       # - title: ""
@@ -79,32 +79,13 @@ en: &DEFAULT_EN
       #   align: right
     end: "And I am still learning and improving!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+
+
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Info"
+    text: "Links to my LinkedIn & Social Media"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -118,26 +99,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+     
 
   contact:
     title: "Contact Us"
