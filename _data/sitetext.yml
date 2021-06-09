@@ -25,15 +25,15 @@ en: &DEFAULT_EN
         desc: "Major In Art & Design: Playable Media 
         Graduate in Fall 2021"
         icon: fas fa-graduation-cap
-      - title: "Game Designer"
+      - title: "Game Designer& Level Designer"
         desc: "Experience with Unity."
         icon: fas fa-gamepad
       - title: "3D Modeler & Animator"
         desc: "Experience with Blender & Substance Painter"
         icon: fas fa-cubes #find more at https://fontawesome.com/icons
-      - title: "Level Designer"
-        desc: ""
-        icon: fas fa-layer-group
+      # - title: "Level Designer"
+      #   desc: ""
+      #   icon: fas fa-layer-group
 
   portfolio:
     title: "Portfolio"
