@@ -47,6 +47,10 @@ en: &DEFAULT_EN
     title: "Resume"
     text: "A copy of my resume"
     section: resume
+     list:
+      - title: "Grad From University of California - Santa Cruz"
+        desc: "Major In Art & Design: Playable Media"
+        icon: fas fa-graduation-cap
   timeline:
     title: "About"
     text: "Lorem ipsum timeline"
