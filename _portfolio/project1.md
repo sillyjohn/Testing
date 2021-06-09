@@ -5,14 +5,14 @@ image: D:\GIthub\johnTCY.Github.io\assets\img\MagicMousterMap.png
 alt: Level 1 of Magic Mouster
 
 caption:
-  title: Threads
+  title: Magic Mouster
   subtitle:   
   thumbnail: assets\img\MagicMouster.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. [Magic Mouster](https://magicmousters.itch.io/magic-mouster)
+This is a year long capstone project created by Team Magic Mousters. In this project, my primary role is 3D artist and level designer, who dedicated toward creating levels that are aesthetically and mechanically cohesive. [Link to Magic Mouster's itch page](https://magicmousters.itch.io/magic-mouster)
 
 {:.list-inline}
 - Date: June 2021
 - Category: 3D Mini-Golf
-- Platform: Window & Mac OS
+- Supported Platform: Window & Mac OS
 
