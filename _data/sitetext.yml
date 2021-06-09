@@ -50,24 +50,24 @@ en: &DEFAULT_EN
         icon: fas fa-graduation-cap
   timeline:
     title: "About"
-    text: "Lorem ipsum timeline"
+    text: "My Skill"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Progamming"
+        year: "Started Since 2018"
+        desc: "Experienced in C++, Java & C#"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "3D Software"
+        year: "Started Since 2020"
+        desc: "Proficient In Blender & Substance Painter "
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Communication"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Fluent communication with English & Chinese. Open to all ideas and "
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "And I am still learning and improving!"
 
   about:
     title: "About Us"
