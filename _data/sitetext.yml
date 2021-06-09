@@ -43,7 +43,7 @@ en: &DEFAULT_EN
     text: "Here are some of my work"
     section: portfolio
     closebutton: "Close Project"
-  resume:
+  services:
     title: "Resume"
     text: "A copy of my resume"
     section: resume
