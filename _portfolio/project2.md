@@ -1,13 +1,13 @@
 ---
-title: Keto
+title: Ketto
 subtitle: In the night of full moon, two samurai decide to put an end to their grundge and challenge each other with all they've got. There can only be one left standing.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets\keto.png
 alt: Keep Exploring
 
 caption:
-  title: Keto
+  title: Ketto
   subtitle: Animation
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets\keto_thumbnail.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
