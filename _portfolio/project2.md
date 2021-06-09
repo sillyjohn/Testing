@@ -9,10 +9,8 @@ caption:
   subtitle: Animation
   thumbnail: assets\keto_thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
+This is a two minutes animation made with blender. I took an animation class about 3 months after I started learning 3D modeling and inspired by kimetsu no yaiba, I decided to make short animation of two samuria fight each other as my final project for my animation class. Learning how to animate and rig the character was challeneging but also very rewarding at the same time.[Link to google drive to watch the animation](https://drive.google.com/file/d/1mki4mo5tkck4fodL2_zpv9WGfEApmnsf/view?usp=sharing)
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- Date: March 2021
+- Category: Animation
+- Software: Blender 2.9
