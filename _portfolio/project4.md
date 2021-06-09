@@ -1,6 +1,6 @@
 ---
 title: "(O.o)(o.O)"
-subtitle: Chibi playing football! Nothing could go wrong, right?
+subtitle: Chibis are playing football! Nothing could go wrong, right?
 image: assets\p4_3.png
 image_2: assets\p4_2.png
 image_3: assets\p4_1.png
