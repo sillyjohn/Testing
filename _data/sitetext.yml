@@ -86,7 +86,7 @@ en: &DEFAULT_EN
   team:
     title: "Info"
     text: "Links to my LinkedIn & Social Media"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Tsoi Chun Yin"
